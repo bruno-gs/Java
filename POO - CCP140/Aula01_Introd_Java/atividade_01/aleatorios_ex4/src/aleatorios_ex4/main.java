@@ -8,6 +8,14 @@ import java.util.Scanner; // importando a bib de input
 //import java.lang.Math; // importando a bib de matematica
 import java.util.Random; // importando a bib do Random 
 
+/*
+Faça um programa que 
+    gera 100 vezes um número aleatório 
+        entre 1 e 100 
+    e exiba qual foi o maior número gerado 
+    e quantas vezes o maior número foi atualizado.
+*/
+
 /**
  *
  * @author uniebrunosil

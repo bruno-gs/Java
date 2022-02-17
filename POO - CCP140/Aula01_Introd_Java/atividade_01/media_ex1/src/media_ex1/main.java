@@ -6,6 +6,17 @@
 package media_ex1;
 import java.util.Scanner; // importando a bib de input
 
+/*
+Faça um programa que realize a leitura de três notas parciais de um aluno 
+    e calcule a média (M = (N1 + N2*2 + N3*3)/6) alcançada pelo aluno 
+    e apresentar:
+        o A mensagem "Aprovado", 
+            se a média for maior ou igual a 5, 
+                com a respectiva média alcançada;
+        o A mensagem "Reprovado", 
+            se a média for menor do que 5, 
+                com a respectiva média alcançada;
+*/
 
 /**
  *

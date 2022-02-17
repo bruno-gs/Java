@@ -6,6 +6,15 @@
 package media_num;
 import java.util.Scanner; // importando a bib de input
 
+/*
+Escreva um programa que leia números digitados pelo usuário. 
+O programa deve ler os números até que 0 (zero) seja digitado.
+Quando 0 for digitado, o programa deve 
+    exibir a quantidade de dígitos que foram digitados, 
+    a somatória destes dígitos 
+    e a média aritmética.
+
+*/
 
 /**
  *
